@@ -1,6 +1,7 @@
 # AngularBootstrap4
+An example of using Angular 6.x with Bootstrap 4.x.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+This project was originally generated on August 3, 2018 with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 ## Adding Bootstrap 4
 To use Bootstrap 4 with Angular, follow the instructions [here](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/include-bootstrap.md), specifically the part about using SASS.
 ## Development server
