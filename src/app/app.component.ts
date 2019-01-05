@@ -1,4 +1,4 @@
-import { Component, VERSION } from '@angular/core';
+import {Component, DoBootstrap, VERSION} from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +7,5 @@ import { Component, VERSION } from '@angular/core';
 })
 export class AppComponent {
   title = `angular-bootstrap4 using Angular ${VERSION.full}`;
+
 }
