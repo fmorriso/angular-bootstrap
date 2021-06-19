@@ -1,9 +1,9 @@
 # AngularBootstrap4
-An example of using Angular 6.x with Bootstrap 4.x.
+An example of using Angular 12.x with Bootstrap 5.x.
 
 This project was originally generated on August 3, 2018 with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
-## Adding Bootstrap 4
-To use Bootstrap 4 with Angular, follow the instructions [here](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/include-bootstrap.md), specifically the part about using SASS.
+## Adding Bootstrap
+To use Bootstrap with Angular, follow the instructions [here](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/include-bootstrap.md), specifically the part about using SASS.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
