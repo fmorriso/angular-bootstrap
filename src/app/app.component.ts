@@ -1,11 +1,12 @@
-import {Component, VERSION} from '@angular/core';
+import { Component, VERSION } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = `angular-bootstrap4 using Angular ${VERSION.full}`;
-
+  get title(): string {
+    return `angular-bootstrap4 using Angular ${VERSION.full}`;
+  }
 }
