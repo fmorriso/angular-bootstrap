@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Updates
 
-* 2022-11-13 upgraded to Angular 13
+* 2022-11-13 upgraded to Angular 13 then 14
 
 ## Code scaffolding
 
