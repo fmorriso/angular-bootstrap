@@ -8,6 +8,10 @@ To use Bootstrap with Angular, follow the instructions [here](https://github.com
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Updates
+
+* 2022-11-13 upgraded to Angular 13
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
