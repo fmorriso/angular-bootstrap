@@ -1,4 +1,4 @@
-# AngularBootstrap4
+# AngularBootstrap
 An example of using Angular 15.x with Bootstrap 5.x.
 
 This project was originally generated on August 3, 2018 with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
