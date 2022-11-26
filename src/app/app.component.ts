@@ -7,6 +7,6 @@ import { Component, VERSION as ngVersion } from '@angular/core';
 })
 export class AppComponent {
   get title(): string {
-    return `angular-bootstrap4 using Angular ${ngVersion.full}`;
+    return `Angular Bootstrap using Angular ${ngVersion.full}`;
   }
 }
